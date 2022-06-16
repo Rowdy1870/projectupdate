@@ -1,3 +1,4 @@
+{% load static%}
 @font-face {
   font-family: 'maicons';
   src:  url('{% static "/fonts/maicons.eot?c9nlkl" %}');
